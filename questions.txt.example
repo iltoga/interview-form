@@ -1,0 +1,10 @@
+Can you explain the differences between a struct and an interface in Go?
+How do you handle errors in Go and what are some best practices for error handling?
+Can you explain how Go's garbage collector works and how it differs from other GCs?
+How do you implement concurrency in Go using goroutines and channels?
+How do you handle dependency management in Go?
+Can you explain the benefits of using Go's built-in testing framework?
+Can you explain the difference between Go's various data types (e.g. slices, maps, and arrays)?
+How do you optimize the performance of a Go application?
+Can you explain how Go's package system works and how to create reusable packages?
+How do you handle configuration and environment variables in Go?
